@@ -6,4 +6,7 @@ This repository contains all the notes taken by [Liam Smith](https://github.com/
 
 If I type does this get added on the fly? Oh it does!
 
-### ***New Heading***
+### ***Table of Contents***
+
+* [**Week 1**](/Week_1)
+  * [**Day 1**](/Week_1/Day_1)
